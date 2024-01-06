@@ -1,4 +1,4 @@
-<h1 align="center"> Focus Timer </h1>
+<h1 align="center"> Focus Timer 2.0 </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="FocusTimer" src="./github/preview.png" width="100%">
+  <img alt="FocusTimer2.0" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -23,10 +23,11 @@ This project was developed with the following technologies:
 - HTML and CSS
 - Javascript
 - Git and GitHub
+- Figma
 
 ## 💻 Project
 
-- [Access the finished project, online](https://aoba43.github.io/FocusTimer/)
+- [Access the finished project, online](https://aoba43.github.io/FocusTimer2.0/)
 
 - Project given by Rocketseat to advance in JavaScript
 
