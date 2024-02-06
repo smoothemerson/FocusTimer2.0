@@ -22,6 +22,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://smothemerson.github.io/FocusTimer2.0/)
+- [Access the finished project, online](https://smoothemerson.github.io/FocusTimer2.0/)
 
 - Project given by Rocketseat in Stage 05 of the Explorer Course
